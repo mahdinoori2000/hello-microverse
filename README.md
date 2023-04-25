@@ -84,17 +84,13 @@ Open the index file in your browser or live server
 
 ## 👥 Authors <a name="authors"></a>
 
+<!-- AUTHOR -->
+
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/mahdinoori2000)
 - Twitter: [@twitterhandle](https://twitter.com/mahdinoori2000)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mahdi-noori-4b4370270/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
